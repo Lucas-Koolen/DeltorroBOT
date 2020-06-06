@@ -1,0 +1,17 @@
+bot.on("guildMemberAdd", guildMember => {
+
+    var role = message.guild.roles.find(r => r.name ==  "( ͡° ͜ʖ ͡°)");
+
+    if(!role) return;
+
+    member.addRole(role);
+
+});
+
+
+
+
+
+
+
+to the server of the Nob-Squad!
